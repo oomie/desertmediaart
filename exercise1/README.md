@@ -1,6 +1,8 @@
 ### Assignment 1: RGB Hello World
 # LED blinking to the beat of a snippet from Newjeans' song 'Super Shy'
 
+## [Demo Video]()
+
 ## Concept
 For this assignment, we were tasked with telling a story or creating an experience by animating the single RGB LED that is on our adafruit Feather. I thought it would be interesting to create an experience in which I program the LED to match the beats in a song. I decided to go with NewJeans' 'Super Shy' and used bright colors to represent the beats of the song. I chose to use the first approx. 30 seconds of the song because I felt that the intro beat and the first verse would look really cool on the LED. The colors I chose for the LED were influenced by the album cover of this song:
 
