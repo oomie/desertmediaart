@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
 # SPDX-License-Identifier: MIT
-# modified code from the rgb hello world example
+# modified code from the rgb hello world example : https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led
 
 
 """LED animation assignment: led blinking to the beat of Newjeans' song Super Shy """
