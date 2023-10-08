@@ -1,4 +1,4 @@
 ## Waving Cat Figure
-### Documentation on Brightspace
+### Documentation is on Brightspace
 
-### Video Link
+### [Video Link](https://youtube.com/shorts/98SMdPDiYf4?feature=share)
